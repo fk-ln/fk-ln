@@ -1,3 +1,3 @@
-[Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
+[Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fk-ln)
 
-[fk-ln's GitHub Status](https://github-readme-stats.vercel.app/api?username=zizi4n5&show_icons=true)
+[fk-ln's GitHub Status](https://github-readme-stats.vercel.app/api?username=fk-ln&show_icons=true)
